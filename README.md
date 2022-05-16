@@ -19,9 +19,9 @@ Die Arbeitsgruppe hat in den vergangenen Monaten an einem Entwurf für das Papie
 Erstelle hier ein GitHub-Konto: https://github.com/.
 
 Falls bereits ein GitHub-Konto vorhanden ist, logg Dich ein und …
--	… les hier den Entwurf: https://github.com/stadt-bielefeld/izud/blob/main/entwurf_richtlinie_daten.md.
+-	… les hier den Entwurf: https://github.com/stadt-bielefeld/izud/blob/main/entwurf_umgang_daten.md.
 -	… leg hier ein GitHub-Issue an: https://github.com/stadt-bielefeld/izud/issues/new. Darüber könnt Ihr uns Eure Anmerkungen mitteilen und mit anderen diskutieren.
--	… oder stell direkt einen Pull-Request mit konkreten Vorschlägen. Dazu kannst Du hier auf das graue Stift-Symbol oben rechts klicken: https://github.com/stadt-bielefeld/izud/blob/main/entwurf_richtlinie_daten.md.
+-	… oder stell direkt einen Pull-Request mit konkreten Vorschlägen. Dazu kannst Du hier auf das graue Stift-Symbol oben rechts klicken: https://github.com/stadt-bielefeld/izud/blob/main/entwurf_umgang_daten.md.
 
 Falls Du kein GitHub-Konto erstellen möchtest, kannst Du dennoch öffentlich den Entwurf hier auf GitHub lesen und gerne eine Mail mit Deiner Rückmeldung an Bürge Uprak (Buerge.Uprak@bielefeld.de) senden. 
 
